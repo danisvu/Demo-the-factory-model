@@ -1,0 +1,14 @@
+{
+  "name": "link-shelf",
+  "version": "1.0.0",
+  "description": "A bookmarks manager built by subagents — O'Reilly CodeCon Demo 1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "express": "^4.21.0"
+  }
+}

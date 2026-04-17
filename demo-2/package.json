@@ -1,0 +1,14 @@
+{
+  "name": "link-shelf",
+  "version": "2.0.0",
+  "description": "Link Shelf with search — built by Agent Teams — O'Reilly CodeCon Demo 2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0",
+    "express": "^4.21.0"
+  }
+}

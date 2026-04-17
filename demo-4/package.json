@@ -1,0 +1,14 @@
+{
+  "name": "linkshelf-demo4-quality-gates",
+  "version": "1.0.0",
+  "description": "Demo 4: Quality Gates & Self-Improving Agents — Link Shelf + Favorites",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "express": "^4.21.0"
+  }
+}
